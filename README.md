@@ -1,4 +1,4 @@
-# Lox Language
+# Lox Interpreter
 
 Lox is a dynamically typed, interpreted scripting language.
 
