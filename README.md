@@ -2,7 +2,7 @@
 
 Lox is a dynamically typed, interpreted scripting language.
 
-This is my implementation of an interpreter for Lox, based on the book [Crafting Interpreters](http://www.craftinginterpreters.com/) by Robbert Nystrom.
+This is my implementation of an interpreter for Lox, based on the book [Crafting Interpreters](http://www.craftinginterpreters.com/) by Robert Nystrom.
 
 It can either be ran in interactive mode,
 
